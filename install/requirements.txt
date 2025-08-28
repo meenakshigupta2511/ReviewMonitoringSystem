@@ -1,0 +1,4 @@
+apache-airflow>=2.7.0
+nltk>=3.8.1
+textblob>=0.17.1
+python-dateutil>=2.8.2
